@@ -46,7 +46,7 @@ p {
 	margin-bottom: 1.25rem;
 	color: hsl(210, 22%, 49%);
 }
-@media screen and (min-width: 860px) {
+@media screen and (max-width: 860px) {
 	h1 {
 		font-size: 4rem;
 	}
@@ -78,7 +78,7 @@ p {
 	margin: 0 auto;
 	max-width: 1170px;
 }
-@media screen and (min-width: 992px) {
+@media screen and (max-width: 992px) {
 	.section-center {
 		width: 95vw;
 	}
@@ -136,7 +136,7 @@ nav {
 .show-links {
 	height: 10rem;
 }
-@media screen and (min-width: 860px) {
+@media screen and (max-width: 860px) {
 	.section-center {
 		max-width: 1170px;
 		margin: 0 auto;
